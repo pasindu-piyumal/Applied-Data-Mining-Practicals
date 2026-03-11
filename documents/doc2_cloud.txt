@@ -1,0 +1,1 @@
+Cloud computing allows us to store massive amounts of data. Data science uses this data to predict future trends. The future of data storage is in the cloud.
